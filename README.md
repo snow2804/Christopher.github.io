@@ -20,8 +20,18 @@ Here’s what I rock with right now:
 | Node.js | ![■■■■■■■](https://img.shields.io/badge/Node.js-75%25-green) |
 | Git Bash | ![■■■■■■](https://img.shields.io/badge/Git_Bash-60%25-black) |
 
-```javascript
-// Just a little JS magic
+<ul id="skills"></ul>
+
+<script>
 const skills = ["HTML", "CSS", "JavaScript", "Shopify", "Node.js", "Git Bash"];
-skills.forEach(skill => console.log(`💥 Mastering ${skill} 🔥`));
+const ul = document.getElementById("skills");
+
+skills.forEach(skill => {
+  const li = document.createElement("li");
+  li.textContent = `💥 Mastering ${skill} 🔥`;
+  ul.appendChild(li);
+});
+</script>
+
+
 
