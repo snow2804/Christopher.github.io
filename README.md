@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christopher
 
-![Header](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN6MDN6M2x2bm40eXU5NjI5Nno0Znc4MGhxYjRsNzE5N3prazAzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+![Header](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNwbDFlM3dtNXEyZGJ1eGw0cWtuY3l0YTYwaXZ5MzM5anE1OHgzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/17mNCcKU1mJlrbXodo/giphy.gif)
 
 Hi! I'm **Christopher**, a **Web Designer & Web Developer** passionate about creating **clean, efficient, and user-friendly web applications**.  
 I turn **ideas into functional solutions** and constantly explore **modern web technologies**.
@@ -39,7 +39,7 @@ skills.forEach(skill => console.log(`🔥 Mastering ${skill} 🔥`));
 
 ## 📫 Let's Connect ✨
 
-![Coding header](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
+![Coding header](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN6MDN6M2x2bm40eXU5NjI5Nno0Znc4MGhxYjRsNzE5N3prazAzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 ─────────────────────────────  
 💻 GitHub:   [christopher.github.io](https://github.com/christopher.github.io)  
