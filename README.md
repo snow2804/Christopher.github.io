@@ -42,7 +42,7 @@ skills.forEach(skill => console.log(`🔥 Mastering ${skill} 🔥`));
 ![Coding header](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN6MDN6M2x2bm40eXU5NjI5Nno0Znc4MGhxYjRsNzE5N3prazAzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 ─────────────────────────────  
-💻 GitHub:   [christopher.github.io](https://github.com/christopher.github.io)  
+💻 GitHub:   [christopher.github.io](https://github.com/snow2804/Christopher.github.io)  
 🔗 LinkedIn: [Christopher De Giorgi](https://it.linkedin.com/in/christopher-de-giorgi-1469a9279)  
 📧 Email:    [christopher2804@icloud.com](mailto:christopher2804@icloud.com)  
 ─────────────────────────────  
