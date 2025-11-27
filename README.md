@@ -38,15 +38,11 @@ skills.forEach(skill => console.log(`🔥 Mastering ${skill} 🔥`));
 
 ## 📫 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christopher.github.io)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/christopher-de-giorgi-1469a9279)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopher2804@icloud.com)
+![Coding GIF](https://media.giphy.com/media/l0HlQ7LRalhW8NxoQ/giphy.gif)
+
+- **GitHub:** [christopher.github.io](https://github.com/christopher.github.io)  
+- **LinkedIn:** [Christopher De Giorgi](https://it.linkedin.com/in/christopher-de-giorgi-1469a9279)  
+- **Email:** [christopher2804@icloud.com](mailto:christopher2804@icloud.com)
 
 
-
-
-
-
-
-“Design is intelligence made visible.” – Alina Wheeler
 
