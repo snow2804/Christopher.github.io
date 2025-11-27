@@ -23,7 +23,7 @@ Here’s my skill level with right now:
 ![Skill Badges](https://img.shields.io/badge/HTML-90%25-brightgreen?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3)
 ![JS](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript)
-![Shopify](https://img.shields.io/badge/Shopify-70%25-9ACD32?style=for-the-badge&logo=shopify)
+![Shopify](https://img.shields.io/badge/Shopify-80%25-9ACD32?style=for-the-badge&logo=shopify)
 ![Node.js](https://img.shields.io/badge/Node.js-75%25-green?style=for-the-badge&logo=node.js)
 ![Git Bash](https://img.shields.io/badge/Git_Bash-60%25-black?style=for-the-badge&logo=gnubash)
 
