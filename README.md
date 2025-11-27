@@ -35,14 +35,17 @@ Here’s what I rock with right now:
 // Watch me master my skills 💥
 const skills = ["HTML", "CSS", "JavaScript", "Shopify", "Node.js", "Git Bash"];
 skills.forEach(skill => console.log(`🔥 Mastering ${skill} 🔥`));
+```
 
-## 📫 Let's Connect
+## 📫 Let's Connect ✨
 
-![Coding GIF](https://media.giphy.com/media/l0HlQ7LRalhW8NxoQ/giphy.gif)
+╔══════════════════════════════════╗
+💻 GitHub:    [christopher.github.io](https://github.com/christopher.github.io)
+🔗 LinkedIn:  [Christopher De Giorgi](https://it.linkedin.com/in/christopher-de-giorgi-1469a9279)
+📧 Email:     [christopher2804@icloud.com](mailto:christopher2804@icloud.com)
+╚══════════════════════════════════╝
 
-- **GitHub:** [christopher.github.io](https://github.com/christopher.github.io)  
-- **LinkedIn:** [Christopher De Giorgi](https://it.linkedin.com/in/christopher-de-giorgi-1469a9279)  
-- **Email:** [christopher2804@icloud.com](mailto:christopher2804@icloud.com)
+🚀 Feel free to reach out and let's build something awesome together!
 
 
 
