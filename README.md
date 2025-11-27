@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christopher
 
-![Header](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
+![Header](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN6MDN6M2x2bm40eXU5NjI5Nno0Znc4MGhxYjRsNzE5N3prazAzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 Hi! I'm **Christopher**, a **Web Designer & Web Developer** passionate about creating **clean, efficient, and user-friendly web applications**.  
 I turn **ideas into functional solutions** and constantly explore **modern web technologies**.
