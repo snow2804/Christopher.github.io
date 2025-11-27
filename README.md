@@ -9,14 +9,14 @@ I turn **ideas into functional solutions** and constantly explore **modern web t
 
 ## 💻 Tech Stack & Skills
 
-Here’s what I rock with right now:
+Here’s my skill level with right now:
 
 | Skill       | Level |
 |------------|-------|
 | HTML       | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ 90% |
 | CSS        | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ 80% |
 | JavaScript | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ 80% |
-| Shopify    | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ 70% |
+| Shopify    | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ 80% |
 | Node.js    | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ 70% |
 | Git Bash   | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ 60% |
 
@@ -39,13 +39,15 @@ skills.forEach(skill => console.log(`🔥 Mastering ${skill} 🔥`));
 
 ## 📫 Let's Connect ✨
 
-╔══════════════════════════════════╗
-💻 GitHub:    [christopher.github.io](https://github.com/christopher.github.io)
-🔗 LinkedIn:  [Christopher De Giorgi](https://it.linkedin.com/in/christopher-de-giorgi-1469a9279)
-📧 Email:     [christopher2804@icloud.com](mailto:christopher2804@icloud.com)
-╚══════════════════════════════════╝
+![Coding GIF](https://media.giphy.com/media/l0HlQ7LRalhW8NxoQ/giphy.gif)
 
-🚀 Feel free to reach out and let's build something awesome together!
+─────────────────────────────  
+💻 GitHub:   [christopher.github.io](https://github.com/christopher.github.io)  
+🔗 LinkedIn: [Christopher De Giorgi](https://it.linkedin.com/in/christopher-de-giorgi-1469a9279)  
+📧 Email:    [christopher2804@icloud.com](mailto:christopher2804@icloud.com)  
+─────────────────────────────  
+
+✨ Feel free to reach out and let's build something awesome together! 🚀
 
 
 
