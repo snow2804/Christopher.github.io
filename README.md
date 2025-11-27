@@ -11,27 +11,42 @@ I turn **ideas into functional solutions** and constantly explore **modern web t
 
 Here’s what I rock with right now:
 
-| Skill | Level |
-|-------|-------|
-| HTML | ![■■■■■■■■■■](https://img.shields.io/badge/HTML-90%25-brightgreen) |
-| CSS | ![■■■■■■■■■](https://img.shields.io/badge/CSS-85%25-blue) |
-| JavaScript | ![■■■■■■■■■■](https://img.shields.io/badge/JS-80%25-yellow) |
-| Shopify | ![■■■■■■■](https://img.shields.io/badge/Shopify-70%25-9ACD32) |
-| Node.js | ![■■■■■■■](https://img.shields.io/badge/Node.js-75%25-green) |
-| Git Bash | ![■■■■■■](https://img.shields.io/badge/Git_Bash-60%25-black) |
+| Skill       | Level |
+|------------|-------|
+| HTML       | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ 90% |
+| CSS        | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ 80% |
+| JavaScript | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ 80% |
+| Shopify    | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ 70% |
+| Node.js    | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ 70% |
+| Git Bash   | 🔵🔵🔵🔵🔵🔵⚪⚪⚪⚪ 60% |
 
-<ul id="skills"></ul>
+![Skill Badges](https://img.shields.io/badge/HTML-90%25-brightgreen?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-85%25-blue?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript)
+![Shopify](https://img.shields.io/badge/Shopify-70%25-9ACD32?style=for-the-badge&logo=shopify)
+![Node.js](https://img.shields.io/badge/Node.js-75%25-green?style=for-the-badge&logo=node.js)
+![Git Bash](https://img.shields.io/badge/Git_Bash-60%25-black?style=for-the-badge&logo=gnubash)
 
-<script>
+---
+
+## 🚀 Fun JS Snippet
+
+```javascript
+// Watch me master my skills 💥
 const skills = ["HTML", "CSS", "JavaScript", "Shopify", "Node.js", "Git Bash"];
-const ul = document.getElementById("skills");
+skills.forEach(skill => console.log(`🔥 Mastering ${skill} 🔥`));
 
-skills.forEach(skill => {
-  const li = document.createElement("li");
-  li.textContent = `💥 Mastering ${skill} 🔥`;
-  ul.appendChild(li);
-});
-</script>
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/christopher.github.io)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://it.linkedin.com/in/christopher-de-giorgi-1469a9279)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christopher2804@icloud.com)
 
 
+
+
+
+
+
+“Design is intelligence made visible.” – Alina Wheeler
 
