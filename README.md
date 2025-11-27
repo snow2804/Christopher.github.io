@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christopher
 
-![Header](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnNwbDFlM3dtNXEyZGJ1eGw0cWtuY3l0YTYwaXZ5MzM5anE1OHgzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/17mNCcKU1mJlrbXodo/giphy.gif)
+![Header](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGc0cndvMjkzNDkxZjR6dGh2enVmb3F0endkd3gzZ2VmY3hxeHFmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0U7bWQK9s75PjRKcHz/giphy.gif)
 
 Hi! I'm **Christopher**, a **Web Designer & Web Developer** passionate about creating **clean, efficient, and user-friendly web applications**.  
 I turn **ideas into functional solutions** and constantly explore **modern web technologies**.
