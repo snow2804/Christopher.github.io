@@ -39,7 +39,7 @@ skills.forEach(skill => console.log(`🔥 Mastering ${skill} 🔥`));
 
 ## 📫 Let's Connect ✨
 
-![Coding GIF](https://media.giphy.com/media/l0HlQ7LRalhW8NxoQ/giphy.gif)
+![Coding header](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
 
 ─────────────────────────────  
 💻 GitHub:   [christopher.github.io](https://github.com/christopher.github.io)  
@@ -48,6 +48,5 @@ skills.forEach(skill => console.log(`🔥 Mastering ${skill} 🔥`));
 ─────────────────────────────  
 
 ✨ Feel free to reach out and let's build something awesome together! 🚀
-
 
 
