@@ -1,4 +1,3 @@
-![Header]
 
 Hi! I'm **Christopher**, a **Web Designer & Web Developer** passionate about creating **clean, efficient, and user-friendly web applications**.  
 I turn **ideas into functional solutions** and constantly explore **modern web technologies**.
